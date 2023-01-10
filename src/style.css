@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body{
+    margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.upper-bar{
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(87, 93, 99);
+    border: 1px solid rgb(147, 150, 154);
+    font-size:2rem;
+    font-weight: 900;
+}
+
+.table{
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 1rem;
+}
+
+input{
+    text-align: center;
+    width: 97%;
+    margin: auto;
+}
+
+select,button{
+    text-align: center;
+    width: 97%;
+    margin: auto;
+}
+
+th{
+    text-align: center;
+    background-color:lightslategrey;
+    border-radius: 5%;
+    border: 1px solid lightgray;
+    color: white;
+    padding: 0.3rem;
+}
+
+td{
+    text-align: center;
+    background-color: lightgray;
+}
+
+
+
+
